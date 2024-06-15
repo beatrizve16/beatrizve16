@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beatriz!</h1>
-<h3 align="center">A Computer Science student who still doesn´t know what she want´s to work with</h3>
+<h3 align="center">A Computer Science student who still doesn´t know what she wants to work with</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beatrizve16&label=Profile%20views&color=0e75b6&style=flat" alt="beatrizve16" /> </p>
 
