@@ -31,11 +31,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizve16&layout=compact" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=beatrizve16&show_icons=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizve16&layout=compact&title_color=ff75a2&text_color=7257f3&bg_color=f2f0fd" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beatrizve16&show_icons=true&title_color=ff75a2&icon_color=ff75a2&text_color=7257f3&bg_color=f2f0fd" alt="GitHub Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizve16" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beatrizve16&theme=dark" alt="GitHub Streak" />
 </p>
 
