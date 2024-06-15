@@ -8,7 +8,7 @@
 
 <h3 align="center">Connect with me 🌟</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/beatriz-espindola" target="_blank">
+  <a href="https://www.linkedin.com/in/beatriz-espindola-73b06b240/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beatriz-espindola" height="30" width="40" />
   </a>
 </p>
