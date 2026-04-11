@@ -77,9 +77,6 @@ class Beatriz:
 
 <div align="center">
 
-```
-"the best way to predict the future is to build it."
-```
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&left_color=0d0d0d&right_color=555555)
 
