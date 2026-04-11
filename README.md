@@ -1,13 +1,3 @@
-<h1 align="center">Hi there! 🌸✨ I'm Beatriz!</h1>
-<h3 align="center">A Computer Science student leaning towards Front End</h3>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/00/8a/02/008a02e89562569705c2b30d465e1ba1.gif" alt="GIF" width="400">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=beatrizve16&label=Profile%20views&color=0e75b6&style=flat" alt="beatrizve16" />
-</p>
 
 <h3 align="left">💌Connect with me:</h3>
 <p align="left">
